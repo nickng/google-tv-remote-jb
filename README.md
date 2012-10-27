@@ -3,7 +3,7 @@ google-tv-remote-jb
 
 Google TV Remote (for Jelly Bean)
 
-This project built for Jelly Bean based on source code of
+This project is Google TV Remote built for Jelly Bean based on source code of
 * [Google TV Remote](http://code.google.com/p/google-tv-remote/)
 * [Anymote Protocol](http://code.google.com/p/anymote-protocol/)
 * [Google TV Pairing Protocol](http://code.google.com/p/google-tv-pairing-protocol/)
